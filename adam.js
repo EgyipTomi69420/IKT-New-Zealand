@@ -9,7 +9,7 @@ function madarsko() {
     document.getElementById("text1").innerHTML = "1990. 06. 30. 12:00<br>-><br>2046. 04. 14. 9:38<br><br>Sülysáp, repülőtér<br>-><br>Wellington<br><br>Utazási eszköz: repülő";
     document.getElementById("text2").innerHTML = "Szállás weboldala >";
     document.getElementById("text3").innerHTML = "Első nap";
-    document.getElementById("text6").innerHTML = "Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu település meglátogatása, a világ leghosszab nevével rendelekző hely.";
+    document.getElementById("text6").innerHTML = "Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu település meglátogatása, a világ leghosszab nevével rendelkező hely.";
     document.getElementById("text5").innerHTML = "Szállás elfoglalása, városnézés";
     document.getElementById("text4").innerHTML = "Második nap";
     document.getElementById("text9").innerHTML = "Utolsó nap";
