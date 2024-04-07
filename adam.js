@@ -6,7 +6,7 @@ function madarsko() {
     document.getElementById("cim2").innerHTML = "Utazási terv";
     document.getElementById("cim3").innerHTML = "Utazás";
     document.getElementById("cim4").innerHTML = "Szállás";
-    document.getElementById("text1").innerHTML = "2024. 04. 08. 12:00<br>-><br>2024. 04. 09. 19:00<br><br>Sülysáp, repülőtér<br>-><br>Wellington<br><br>Utazási eszköz: repülő";
+    document.getElementById("text1").innerHTML = "2024. 04. 08. 12:00<br>-><br>2024. 04. 09. 19:00<br><br>Budapest, repülőtér<br>-><br>Wellington<br><br>Utazási eszköz: repülő";
     document.getElementById("text2").innerHTML = "Szállás weboldala >";
     document.getElementById("text3").innerHTML = "Első nap";
     document.getElementById("text6").innerHTML = "Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu település meglátogatása, a világ leghosszab nevével rendelkező hely.";
@@ -24,7 +24,7 @@ function madarsko() {
     document.getElementById("cim2").innerHTML = "План путешествия";
     document.getElementById("cim3").innerHTML = "Данные о поездке";
     document.getElementById("cim4").innerHTML = "Размещение";
-    document.getElementById("text1").innerHTML = "2024. 04. 08. 12:00<br>-><br>2024. 04. 09. 19:00<br><br>Sülysáp, аэропорт <br>-><br>Wellington<br><br>инструмент: самолет";
+    document.getElementById("text1").innerHTML = "2024. 04. 08. 12:00<br>-><br>2024. 04. 09. 19:00<br><br>Будапешт, аэропорт <br>-><br>Wellington<br><br>инструмент: самолет";
     document.getElementById("text2").innerHTML = "Просмотр отеля >";
     document.getElementById("text3").innerHTML = "Первый день";
     document.getElementById("text6").innerHTML = "Посещение города Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu, места с самым длинным названием в мире.";
