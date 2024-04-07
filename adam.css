@@ -1,5 +1,5 @@
 body { 
-    background-image: url("img/background.avif");
+    background-image: url("img/new-zealand.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -15,6 +15,7 @@ h1 {
 
 img {
     border-radius: 10px;
+    border: darkslategrey 5px solid ;
 }
 
 .container {
@@ -73,6 +74,7 @@ h3 {
 
 video {
     border-radius: 8px;
+    border: darkslategrey 5px solid;
 }
 
 a {
