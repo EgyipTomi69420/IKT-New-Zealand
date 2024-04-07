@@ -9,7 +9,7 @@ function madarsko() {
     document.getElementById("text1").innerHTML = "2024. 04. 08. 12:00<br>-><br>2024. 04. 09. 19:00<br><br>Budapest, repülőtér<br>-><br>Wellington<br><br>Utazási eszköz: repülő<br>30< óra utazás";
     document.getElementById("text2").innerHTML = "Szállás weboldala >";
     document.getElementById("text3").innerHTML = "Első nap";
-    document.getElementById("text6").innerHTML = "<b>Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu</b> település meglátogatása, a világ leghosszab nevével rendelkező hely.";
+    document.getElementById("text6").innerHTML = "<b>Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu</b> település meglátogatása, a világ leghosszab nevével rendelkező hely";
     document.getElementById("text5").innerHTML = "Szállás elfoglalása, városnézés";
     document.getElementById("text4").innerHTML = "Második nap";
     document.getElementById("text9").innerHTML = "Utolsó nap";
@@ -34,6 +34,6 @@ function madarsko() {
     document.getElementById("text8").innerHTML = "Четвертый день";
     document.getElementById("text10").innerHTML = "Наблюдение за полярным сиянием";
     document.getElementById("text11").innerHTML = "Знакомство с городом Окленд";
-    document.getElementById("text12").innerHTML = "Пройдите велосипедный маршрут Отаго за 1 день.";
+    document.getElementById("text12").innerHTML = "Пройдите велосипедный маршрут Отаго за 1 день";
   }
 }
