@@ -12,12 +12,14 @@ function madarsko() {
     document.getElementById("text6").innerHTML = "<b>Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu</b> település meglátogatása, a világ leghosszab nevével rendelkező hely";
     document.getElementById("text5").innerHTML = "Szállás elfoglalása, városnézés";
     document.getElementById("text4").innerHTML = "Második nap";
-    document.getElementById("text9").innerHTML = "Utolsó nap";
+    document.getElementById("text9").innerHTML = "Ötödik nap";
     document.getElementById("text7").innerHTML = "Harmadik nap";
     document.getElementById("text8").innerHTML = "Negyedik nap";
     document.getElementById("text10").innerHTML = "Sarki fény megtekintése";
     document.getElementById("text11").innerHTML = "Auckland városának felfedezése";
     document.getElementById("text12").innerHTML = "Otago biciklis útvonal végigtekerése 1 nap alatt";
+    document.getElementById("text100").innerHTML = "Hatodik nap";
+    document.getElementById("text101").innerHTML = "Isten megteremtette a Budapesti Műszaki Szakképzési Centrum Pataky István Híradásipari és Informatikai Technikumot";
   } else {
     document.getElementById("cim").innerHTML = "Новая Зеландия";
     document.getElementById("cim2").innerHTML = "План путешествия";
@@ -35,6 +37,9 @@ function madarsko() {
     document.getElementById("text10").innerHTML = "Наблюдение за полярным сиянием";
     document.getElementById("text11").innerHTML = "Знакомство с городом Окленд";
     document.getElementById("text12").innerHTML = "Пройдите велосипедный маршрут Отаго за 1 день";
+    document.getElementById("text100").innerHTML = "Шестой день";
+    document.getElementById("text101").innerHTML = "Бог создалБудапештский центр профессионально-технического обучения Техническая школа СМИ и информационных технологий имени Иштвана Патаки";
+
   }
 }
 
