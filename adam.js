@@ -50,7 +50,6 @@ let ads = [
   "https://bstlar.com/6/liquid1",
   "https://fortnite.thealtening.com/?gclid=EAIaIQobChMIv5SIpLmyhQMVgeW7CB3UxgFQEAEYASAAEgIpxPD_BwE",
   "https://m.h5gamestreet.com/kids-games?gclid=EAIaIQobChMIioT8xLmyhQMV94f9Bx2ivQSQEAEYAiAAEgII0PD_BwE",
-  "https://pataky.hu/",
   "https://taptonline.com/?gclid=EAIaIQobChMIioT8xLmyhQMV94f9Bx2ivQSQEAEYAyAAEgJ1QfD_BwE",
   "https://register.sandbox.game/gamemaker/?utm_source=adwords&utm_campaign=20493100730&utm_term=151442552286&utm_content=671790653489&gsc=1&utm_medium=ytv_5651876&gclid=EAIaIQobChMI6rj82bmyhQMV9QU6Ah1onwYKEAEYASAAEgKBZvD_BwE&gsid=1eef59627eaa6cbaae114aa8c2620671",
   "https://www.foundhappy.com/extension.html?gclid=EAIaIQobChMI6rj82bmyhQMV9QU6Ah1onwYKEAEYAyAAEgKTGPD_BwE",
