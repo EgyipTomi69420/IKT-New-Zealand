@@ -28,6 +28,9 @@ img {
 
 p {
     color: darkslategrey;
+    text-align: justify;
+    font-size: 24px;
+    font-weight: bolder;
 }
 
 
@@ -88,4 +91,9 @@ a:hover {
 
 footer {
     margin-top: 25px;
+}
+
+hr {
+    border: darkslategrey 2px solid;
+    width: 70%;
 }
