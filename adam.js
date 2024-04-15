@@ -24,6 +24,8 @@ function madarsko() {
     document.getElementById("fel2").innerHTML = "<p>kipakolás</p>"
     document.getElementById("fel3").innerHTML = "<p>vacsora/ebéd (attól függően, hogy mikor érkezünk)</p>"
     document.getElementById("text101").innerHTML = "Isten megteremtette a Budapesti Szakképzési Centrum Pataky István Híradásipari- és Informatikai Technikumát"
+    document.getElementById("forrasok").innerHTML = "Források:"
+    document.getElementById("wiki").innerHTML = "wiki"
 
   } else {
     document.getElementById("cim").innerHTML = "Новая Зеландия";
@@ -48,6 +50,9 @@ function madarsko() {
     document.getElementById("fel2").innerHTML = "распаковка вещей"
     document.getElementById("fel3").innerHTML = "ужин/обед (в зависимости от того, когда мы приедем)"
     document.getElementById("text101").innerHTML = "Бог создал Будапештский центр профессионально-технического обучения Техническая школа СМИ и информационных технологий имени Иштвана Патаки"
+    document.getElementById("forrasok").innerHTML = "Источники:"
+    document.getElementById("wiki").innerHTML = "вики"
+
   }
 }
 
