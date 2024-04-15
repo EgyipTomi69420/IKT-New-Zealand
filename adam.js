@@ -19,10 +19,11 @@ function madarsko() {
     document.getElementById("text11").innerHTML = "Auckland városának felfedezése";
     document.getElementById("text12").innerHTML = "Otago biciklis útvonal végigtekerése 1 nap alatt";
     document.getElementById("alcim").innerHTML = "Röviden az országról"
-    document.getElementById("roviden").innerHTML = "Új-Zéland két nagyobb és számos kisebb szigetből álló állam a Csendes-óceán délnyugati részén. Földrajzilag a Föld legelszigeteltebb állama: még Ausztráliától is kb. 1500 km-re fekszik. A másik legközelebbi nagyobb szárazföld délen az Antarktisz. Északon Új-Kaledónia, a Fidzsi-szigetek és Tonga szigetek helyezkednek el viszonylag közel. Területe Magyarország területének majdnem háromszorosa. Mivel igen távol esik minden földrésztől, Új-Zéland a legutolsó nagyobb, emberi letelepedésre alkalmas terület, amit az ember általában – a maorik révén –, majd pedig az európai ember meghódított. A hosszú elszigeteltség miatt Új-Zélandon az állatok és a növények különleges biodiverzitása alakult ki, igen sok endemikus, csak itt élő fajjal. Ezek közül a legismertebbek a különleges madárfajták. Az ország geológiailag rendkívül aktív területen fekszik, az itt húzódó törésvonalak mentén gyakoriak a földrengések és a vulkanikus kitörések."
+    document.getElementById("roviden").innerHTML = "Új-Zéland két nagyobb és számos kisebb szigetből álló állam a Csendes-óceán délnyugati részén. Földrajzilag a Föld legelszigeteltebb állama: még Ausztráliától is kb. 1500 km-re fekszik. A másik legközelebbi nagyobb szárazföld délen az Antarktisz. Északon Új-Kaledónia, a Fidzsi-szigetek és Tonga szigetek helyezkednek el viszonylag közel. <br>Területe Magyarország területének majdnem háromszorosa. Mivel igen távol esik minden földrésztől, Új-Zéland a legutolsó nagyobb, emberi letelepedésre alkalmas terület, amit az ember általában – a maorik révén –, majd pedig az európai ember meghódított. A hosszú elszigeteltség miatt Új-Zélandon az állatok és a növények különleges biodiverzitása alakult ki, igen sok endemikus, csak itt élő fajjal. <br>Ezek közül a legismertebbek a különleges madárfajták. Az ország geológiailag rendkívül aktív területen fekszik, az itt húzódó törésvonalak mentén gyakoriak a földrengések és a vulkanikus kitörések."
     document.getElementById("fel1").innerHTML = "<p>érkezés</p>"
     document.getElementById("fel2").innerHTML = "<p>kipakolás</p>"
     document.getElementById("fel3").innerHTML = "<p>vacsora/ebéd (attól függően, hogy mikor érkezünk)</p>"
+    document.getElementById("text101").innerHTML = "Isten megteremtette a Budapesti Szakképzési Centrum Pataky István Híradásipari- és Informatikai Technikumát"
 
   } else {
     document.getElementById("cim").innerHTML = "Новая Зеландия";
@@ -46,6 +47,7 @@ function madarsko() {
     document.getElementById("fel1").innerHTML = "приезд"
     document.getElementById("fel2").innerHTML = "распаковка вещей"
     document.getElementById("fel3").innerHTML = "ужин/обед (в зависимости от того, когда мы приедем)"
+    document.getElementById("text101").innerHTML = "Бог создал Будапештский центр профессионально-технического обучения Техническая школа СМИ и информационных технологий имени Иштвана Патаки"
   }
 }
 
